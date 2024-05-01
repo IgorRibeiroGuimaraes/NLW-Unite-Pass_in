@@ -44,4 +44,4 @@ Para mais informações, entre em contato via e-mail: igorrguimaraes84@gmail.com
 
 ---
 
-Desenvolvido por [Igor Ribeiro](https://github.com/seu-usuario)
+Desenvolvido por [Igor Ribeiro](https://github.com/IgorRibeiroGuimaraes)
